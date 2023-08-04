@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/min199973/mingoose-react3/static/js/main.a589b4dc.js",
-    "index.html": "/min199973/mingoose-react3/index.html",
-    "main.a589b4dc.js.map": "/min199973/mingoose-react3/static/js/main.a589b4dc.js.map"
+    "main.js": "/mingoose-react3.git/static/js/main.d2d23066.js",
+    "index.html": "/mingoose-react3.git/index.html",
+    "main.d2d23066.js.map": "/mingoose-react3.git/static/js/main.d2d23066.js.map"
   },
   "entrypoints": [
-    "static/js/main.a589b4dc.js"
+    "static/js/main.d2d23066.js"
   ]
 }
